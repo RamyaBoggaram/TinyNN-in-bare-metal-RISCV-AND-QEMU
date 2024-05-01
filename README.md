@@ -1,5 +1,5 @@
 # TinyNN-in-bare-metal-RISCV-AND-QEMU
-These are the steps to build TinyNN in baremetal RISCV and QEMU configurations.
+These are the steps to build TinyNN in baremetal RISCV and QEMU configurations. To build the toolchains in local machines follow: https://github.com/RamyaBoggaram/Baremetal-RISCV-and-QEMU-setup-using-ubuntu-server
 # 1. Copy the code
 Paste the TinyNN.c code in the directory.
 ```
